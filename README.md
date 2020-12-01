@@ -21,7 +21,7 @@ Use the top right navigation panel to visit the different sections of the web pa
 ```
 Explore the rest of the page by scrolling up or down.
 
-![Alt text](./assets/images/body-section.jpg?raw=true "Navigational Menu")
+![Alt text](./assets/images/body-section.jpg?raw=true "Body Section")
 ```
 
 

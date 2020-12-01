@@ -7,7 +7,7 @@ This website is the landing page for Horiseon Social Solution Services, Inc.
 Open your favorite web browser and enter the following web address to access. 
 
 ```html
-https://esroleo.github.io/HTML-CSS-Git-Challenge1-Code-Refactor/#social-media-marketing
+https://esroleo.github.io/html-css-git-challenge1-code-refactor/
 ```
 
 ## Usage

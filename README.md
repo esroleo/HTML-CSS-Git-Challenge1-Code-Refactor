@@ -1,3 +1,6 @@
+# advanced-css-challenge-professional-portfolio
+Professional showcasing HTML5 CSS (Flex and Grids)
+
 1. [ Description. ](#desc)
 2. [ Web Address. ](#web-address)
 3. [ Usage tips. ](#usage)
@@ -8,33 +11,33 @@
 <a name="desk"></a>
 ## 1. Description
 
-#© 2019 Horiseon Social Solution Services, Inc.
+#Advanced-css-challenge-professional-portfolio.
 
-![Logo-Inc](./assets/images/logo-inc.jpg?raw=true "Logo Inc")
+#![Top-Page-Area](./assets/images/page-Logo-smaller-device?raw=true "Main Page Section Smaller Devices")
 
-This website is the landing page for Horiseon Social Solution Services, Inc.
+This website is the landing page for Esteban Romero Portfolio.
 
 <a name="web-address"></a>
 ## 2. How to Get There
 
-Open your favorite web browser and enter the following web address to access. 
+Open your favorite web browser and enter the following web address to access.
 
 ```html
 https://esroleo.github.io/html-css-git-challenge1-code-refactor/
 ```
-<a name="usage"></a> 
+<a name="usage"></a>
 ## 3. Usage Tips
 
 
 Use the top right navigation panel to visit the different sections of the web page.
 
-![nav-menu](./assets/images/nav-menu.jpg?raw=true "Navigational Menu")
+##![nav-menu](./assets/images/nav-menu.jpg?raw=true "Navigational Menu")
 
 
 
 Explore the rest of the page by scrolling up or down.
 
-![body-section](./assets/images/body-section.jpg?raw=true "Body Section")
+##![body-section](./assets/images/body-section.jpg?raw=true "Body Section")
 
 
 <a name="contributing"></a>
@@ -44,3 +47,6 @@ Pull requests are welcome. For major changes, please open let repository owner k
 <a name="license"></a>
 ## 5. License
 None
+
+
+

@@ -13,7 +13,7 @@ Professional showcasing HTML5 CSS (Flex and Grids)
 
 #Advanced-css-challenge-professional-portfolio.
 
-#![Top-Page-Area](./assets/images/page-Logo-smaller-device?raw=true "Main Page Section Smaller Devices")
+#![Top-Page-Area](./assets/images/page-Logo-smaller-device.JPG?raw=true "Main Page Section Smaller Devices")
 
 This website is the landing page for Esteban Romero Portfolio.
 
